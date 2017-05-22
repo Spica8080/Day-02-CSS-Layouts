@@ -15,4 +15,3 @@
 * Use filler text like _ipsum_ when necessary
 
 * Create a git repository in your project directory and push it to Github.
-# Day-02-CSS-Layouts
